@@ -26,4 +26,5 @@ I'm a software engineer, and I live in Brazil.
 ## Find me 🔍
 
 [![Linkedin](https://img.shields.io/badge/-05122A?logo=linkedin)](https://www.linkedin.com/in/gustavofreze)
+[![DockerHub](https://img.shields.io/badge/-05122A?logo=docker&logoColor=white)](https://hub.docker.com/u/gustavofreze)
 [![StackOverflow](https://img.shields.io/badge/-05122A?logo=stackoverflow&logoColor=white)](https://pt.stackoverflow.com/users/280129/gustavo-freze)
