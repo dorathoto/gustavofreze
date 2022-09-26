@@ -25,7 +25,7 @@ I'm a software engineer, and I live in Brazil.
 
 ## Find me 🔍
 
-[![Medium](https://img.shields.io/badge/-05122A?logo=medium)](https://medium.com/@gustavo.freze)
-[![Linkedin](https://img.shields.io/badge/-05122A?logo=linkedin)](https://www.linkedin.com/in/gustavofreze)
-[![DockerHub](https://img.shields.io/badge/-05122A?logo=docker&logoColor=white)](https://hub.docker.com/u/gustavofreze)
-[![StackOverflow](https://img.shields.io/badge/-05122A?logo=stackoverflow&logoColor=white)](https://pt.stackoverflow.com/users/280129/gustavo-freze)
+[![Medium](https://img.shields.io/badge/-05122A?logo=medium)](https://medium.com/@leonardostorollidorathoto)
+[![Linkedin](https://img.shields.io/badge/-05122A?logo=linkedin)](https://www.linkedin.com/in/leonardo-dorathoto-53529321/)
+[![Facebook](https://img.shields.io/badge/-05122A?logo=facebook&logoColor=white)](https://facebook.com/dorathoto)
+[![StackOverflow](https://img.shields.io/badge/-05122A?logo=stackoverflow&logoColor=white)](https://pt.stackoverflow.com/users/5905/dorathoto)
